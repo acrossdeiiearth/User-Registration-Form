@@ -55,9 +55,14 @@ Form is structured for easy integration into login systems, signup workflows, or
 
 Responsive design ensures compatibility with all device sizes
 
-🌐 Live Demo
+<details>
+  <summary>📺 Click to show video</summary>
 
-🔗 Add your GitHub Pages link here once deployed
+  
+https://github.com/user-attachments/assets/82e5b56b-b9c9-4a40-957e-1f47fd88d730
+
+
+</details>
 
 📌 About
 
